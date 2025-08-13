@@ -1,95 +1,60 @@
-<div align="center">
-  
-# 🌟 Hey there! I'm Prayapti Patil 🌟
+# 🚀 Welcome to My GitHub Profile  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
-
-### 🎓 Information Technology Student | 💡 Innovation Enthusiast | 🌱 Continuous Learner
-
-</div>
+## Hi, I'm **Prayapti Patil** 👋  
+🎯 **Full Stack Developer** | Passionate about building efficient and scalable web applications  
+🎓 Pursuing **Bachelor’s in Information Technology**  
 
 ---
 
-## 🚀 About Me
+## 🛠 Skills  
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-\`\`\`javascript
-const prayapti = {
-    pronouns: "she" | "her",
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "DSA"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Git", "GitHub", "VS Code"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm proud of it!"
-};
-\`\`\`
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-<br>
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 
----
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,express" />
-
-### 🗄️ Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,idea" />
-
-</div>
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prayapti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prayapti&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prayapti&theme=algolia" alt="GitHub Streak" />
-</div>
+## 📌 Current Focus  
+- 📈 Improving **DSA** and **System Design** skills  
+- 🤝 Participating in **Hackathons** & **Collaborative Projects**  
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats  
 
-<div align="center">
-
-**🧠 Strengthening DSA and System Design Skills**  
-**🏗️ Building Full-Stack Applications**  
-**🤝 Participating in Hackathons and Collaborative Development**
-
-</div>
+![Prayapti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prayapti&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prayapti&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Prayapti&theme=radical)  
 
 ---
 
-## 🤝 Let's Connect!
+## 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prayaptipatil)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayaptipatil@gmail.com)  
 
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prayaptipatil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayaptipatil@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prayapti)
-
-<br><br>
-
-### 💫 Thanks for visiting my profile! 💫
-
-<img src="https://komarev.com/ghpvc/?username=prayapti&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-
-</div>
+⭐ **Thank you for visiting my profile!**
