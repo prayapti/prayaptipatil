@@ -1,101 +1,174 @@
 <div align="center">
-  <h1>🚀 Welcome to my GitHub Profile</h1>
-  <h2>Prayapti Patil</h2>
   
-  <p>
-    <strong>Full Stack Developer</strong> with a passion for building efficient and scalable web applications
-  </p>
-  
-  <p>Currently pursuing a Bachelor's degree in Information Technology</p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+# 🌟 Hey there! I'm Prayapti Patil 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+### 🎓 Information Technology Student | 💡 Innovation Enthusiast | 🌱 Continuous Learner
+
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 About Me
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+\`\`\`javascript
+const prayapti = {
+    pronouns: "she" | "her",
+    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "DSA"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["MongoDB", "MySQL"],
+        misc: ["Git", "GitHub", "VS Code"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm proud of it!"
+};
+\`\`\`
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<br>
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/data-structure.png" width="40"/>
-        <br><strong>DSA & System Design</strong>
-        <br>Strengthening problem-solving skills
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/code.png" width="40"/>
-        <br><strong>Hackathons</strong>
-        <br>Participating in collaborative development
-      </td>
-    </tr>
-  </table>
+
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,express" />
+
+### 🗄️ Databases & Tools  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,idea" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prayaptipatil&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prayaptipatil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prayaptipatil&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayaptipatil&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prayaptipatil&theme=algolia" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayaptipatil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/prayaptipatil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:prayaptipatil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prayaptipatil&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prayaptipatil&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+## 🎯 Current Mission
 
 <div align="center">
-  <h3>💫 Thank you for visiting my profile! 💫</h3>
-  <p><em>Always open to interesting conversations and collaboration opportunities!</em></p>
+
+| 🧠 **Learning** | 🔨 **Building** | 🎪 **Exploring** |
+|:---:|:---:|:---:|
+| Data Structures & Algorithms | Scalable Web Apps | Open Source Projects |
+| System Design Patterns | Full-Stack Solutions | Hackathon Challenges |
+| Advanced React Concepts | RESTful APIs | Tech Communities |
+
+</div>
+
+---
+
+## 🏆 Achievements & Goals
+
+<div align="center">
+
+\`\`\`
+🎯 2024 Goals:
+├── 📚 Master DSA fundamentals
+├── 🏗️ Build 5 full-stack projects  
+├── 🤝 Contribute to open source
+├── 🏆 Win a hackathon
+└── 💼 Land an amazing internship
+
+📈 Progress: ████████░░ 80%
+\`\`\`
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+## 🎵 Coding Playlist
+
+<div align="center">
+
+*Currently vibing to:* 🎧
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
+
+**Lo-fi Hip Hop** • **Synthwave** • **Ambient Coding Music**
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
+
+### 📬 Reach out for:
+**💼 Collaboration opportunities** • **🤝 Open source projects** • **💡 Tech discussions** • **☕ Virtual coffee chats**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prayaptipatil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayaptipatil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prayaptipatil)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Fun Facts About Me
+
+\`\`\`
+🌅 Early bird coder (best ideas come at 6 AM)
+🍕 Pizza-powered programming sessions
+🎮 Gaming breaks = debugging solutions
+📚 Always have 5+ programming books on my reading list
+🌱 Plant parent (my code grows like my plants - with lots of care!)
+\`\`\`
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 💫 Thanks for stopping by! Let's build something amazing together! 💫
+
+<img src="https://komarev.com/ghpvc/?username=prayaptipatil&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+</div>
+
+<!-- Snake eating my contributions -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prayaptipatil/prayaptipatil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
