@@ -2,9 +2,12 @@
   
 # 🌟 Hey there! I'm Prayapti Patil 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time!" alt="Typing SVG" />
 
-### 🎓 Information Technology Student | 💡 Innovation Enthusiast | 🌱 Continuous Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=💡+Turning+learning+into+scalable+innovation" alt="Typing SVG" />
+
+
+### 🎯 Driven to Contribute and Grow in Diverse Tech Teams | 🎓 B.E. IT 2027 | 🛠️ Building Robust & Scalable Systems with Precision
+
 
 </div>
 
@@ -14,12 +17,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 I'm a **Full Stack Developer** passionate about creating efficient and scalable web applications
-- 🌱 Currently pursuing **Bachelor's in Information Technology**
-- 💻 I love working with **JavaScript, Python, Java** and modern web technologies
-- 🎯 Focused on **React.js** for frontend and **Node.js** for backend development
-- 📚 Always learning and exploring new technologies in web development
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+- 💻 Full Stack Developer in the making — blending creativity with code to build impactful solutions.
+- 🎯 On a mission to grow from campus projects to globally scalable systems.
+- 🌍 Passionate about technology that connects, empowers, and inspires.
 
 <br>
 
