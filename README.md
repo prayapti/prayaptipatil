@@ -17,11 +17,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+
 - 💻 Emerging Full Stack Developer — crafting innovative, high-impact applications that bridge creativity and technology.
 - 🎯 On a mission to grow from campus projects to globally scalable systems.
 - 🌍 Passionate about technology that connects, empowers, and inspires.
 - 🌱 Open to collaborating on open-source projects and real-world applications.
-
 
 <br>
 
@@ -47,12 +47,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prayapti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prayapti&layout=compact&langs_count=8&theme=algolia" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prayapti&theme=algolia" alt="GitHub Streak" />
-</div>
-
-
 
 ---
 
