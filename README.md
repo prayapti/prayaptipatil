@@ -3,7 +3,7 @@
 # 🌟 Hey there! I'm Prayapti Patil 🌟
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=💡+Turning+ideas+into+scalable,+impactful+solutions+—+bridging+creativity+with+technology+to+craft+meaningful+digital+experiences." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&height=100&lines=💡+Turning+ideas+into+solutions+—+where+creativity+meets+technology+for+meaningful+impact.+🚀" alt="Typing SVG" />
 
 
 
